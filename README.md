@@ -31,3 +31,7 @@ To run script files:
 ```shell
 python <filename>.py
 ```
+
+Example:
+
+![](https://cdn.discordapp.com/attachments/1044290423943876783/1234257836025053194/image.png?ex=663013af&is=662ec22f&hm=9daebc0ce6b516a5cf5e3a41befe58de8c566cda709f19954e780b868a7f4972&)
