@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def generate_cat_name(animal_type, color):
-    llm = OpenAI(temperature=0.6)
+    llm = OpenAI(temperature=0.6, model='gpt-3.5-turbo-instruct')
     prompt_animal_name = PromptTemplate(
         input_variables=['animal_type', 'color'],
         template="Você tem um {animal_type} novo da cor {color} e gostaria de dar um nome para ele. Me de uma lista de 5 possíveis nomes."
