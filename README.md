@@ -48,12 +48,6 @@ Example:
 
 ## PDF Chat
 
-To load vectordb from pdf:
-
-```shell
-python pdf-chat/vector_loader.py
-```
-
 To run script files:
 
 ```shell
@@ -68,4 +62,4 @@ PDF
 Source: https://www.sbc.org.br/images/flippingbook/computacaobrasil/computa_39/pdf/CompBrasil_39_180.pdf
 
 Chat
-![](https://cdn.discordapp.com/attachments/1044290423943876783/1234588760172396715/image.png?ex=663147e1&is=662ff661&hm=c66225f463d7d7b7384ce3208aaec76d334c6c95f1de6927f77d2de3cdc79099&)
+![](https://cdn.discordapp.com/attachments/1044290423943876783/1234629799813845032/Gravacao_de_Tela_2024-04-29_as_19.06.04_1.gif?ex=66316e1a&is=66301c9a&hm=ebc47d7989c57e6b77442e38e72a152a941ac041f885bb6f2cc511f27a77f626&)
